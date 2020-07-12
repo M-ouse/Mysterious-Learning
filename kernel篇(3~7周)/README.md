@@ -12,10 +12,10 @@
 
 # 目录：
 
-- [Part I 部署环境](https://github.com/M-ouse/Mysterious-Learning/tree/master/kernel篇(3~7周)/part I)
-- [Part II 初见实模式](https://github.com/M-ouse/Mysterious-Learning/tree/master/kernel篇(3~7周)/part II)
-- [Part III 保护模式](https://github.com/M-ouse/Mysterious-Learning/tree/master/kernel篇(3~7周)/part III)
-- [Part IV 初步完善内核](https://github.com/M-ouse/Mysterious-Learning/tree/master/kernel篇(3~7周)/part IV)
+- [Part I 部署环境](https://github.com/M-ouse/Mysterious-Learning/tree/master/kernel篇(3~7周)/part-I)
+- [Part II 初见实模式](https://github.com/M-ouse/Mysterious-Learning/tree/master/kernel篇(3~7周)/part-II)
+- [Part III 保护模式](https://github.com/M-ouse/Mysterious-Learning/tree/master/kernel篇(3~7周)/part-III)
+- [Part IV 初步完善内核](https://github.com/M-ouse/Mysterious-Learning/tree/master/kernel篇(3~7周)/part-IV)
 
 
 
