@@ -1,6 +1,6 @@
 # 菜鸡被带飞的学习记录：
 
-<summary>C++ STL：</summary>
+<summary>C++ STL</summary>
 
 2020/07/12
 
@@ -8,14 +8,14 @@
 - 需要自己重写一遍
 - 争取暑假前补完
 
-Kernel：
+<summary>Kernel：</summary>
 
 2020/07/12 
 
 - 感觉是一个漫长的过程，需要循环学习，第一次学以输入为主
 - 第一轮 中断
 
-CVE分析：
+<summary>CVE分析：</summary>
 
 2020/07/12
 
