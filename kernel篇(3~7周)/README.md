@@ -12,10 +12,10 @@
 
 # 目录：
 
-- [Part I 部署环境](Part I)
-- [Part II 初见实模式](Part II)
-- [Part III 保护模式](Part III)
-- [Part IV 初步完善内核](Part IV)
+- [Part I 部署环境](Part I/)
+- [Part II 初见实模式](Part II/)
+- [Part III 保护模式](Part III/)
+- [Part IV 初步完善内核](Part IV/)
 
 
 
