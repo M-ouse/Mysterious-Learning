@@ -1,4 +1,4 @@
-这个是跟随Skr大佬学习Kernel的记录。
+学习Kernel的记录。
 
 
 
