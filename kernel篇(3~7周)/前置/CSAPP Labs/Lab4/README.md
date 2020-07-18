@@ -4,6 +4,8 @@
 参考资料：       
 https://github.com/Exely/CSAPP-Labs
 
+https://zhuanlan.zhihu.com/p/28585726
+
 
 ## Part A
 
