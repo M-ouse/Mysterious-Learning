@@ -1,10 +1,14 @@
-# Cache Lab 笔记
-
-这个 lab 分为 Part A 和 Part B ，Part A 要求根据 [traces](../labs/cachelab/traces/) 目录下的 trace 文件，写一个模拟缓存的程序，仅需要修改 [csim.c](../labs/cachelab/csim.c) ；Part B 要求优化矩阵转置函数，减少缓存不命中数，仅需修改 [trans.c](../labs/cachelab/trans.c)，具体要求认真阅读文档。    
 参考资料：       
 https://github.com/Exely/CSAPP-Labs
 
 https://zhuanlan.zhihu.com/p/28585726
+
+cache就是纯粹用数组或结构体模拟，没啥意思。矩阵转置学到了利用AVX进行优化。以下是copy了参考资料里的wp，
+
+# Cache Lab 笔记
+
+这个 lab 分为 Part A 和 Part B ，Part A 要求根据 [traces](../labs/cachelab/traces/) 目录下的 trace 文件，写一个模拟缓存的程序，仅需要修改 [csim.c](../labs/cachelab/csim.c) ；Part B 要求优化矩阵转置函数，减少缓存不命中数，仅需修改 [trans.c](../labs/cachelab/trans.c)，具体要求认真阅读文档。    
+
 
 
 ## Part A
