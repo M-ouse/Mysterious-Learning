@@ -22,5 +22,8 @@ Lab4：Cache Lab
 
 Lab5：Shell Lab
 
-Lab6：Maclloc Lab
+持续更新中。。。
 
+Lab6：Malloc Lab
+
+持续更新中。。。
