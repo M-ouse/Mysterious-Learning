@@ -98,7 +98,12 @@ int main(int argc, char *argv[]) {
     int cflag = 0;                      /* 是否有逗号的标记 */
     unsigned int address = 0, size = 0; /* 访问缓存的地址和大小 */
     count++;                            /* 计数 */
-
+/*
+I，表示指令load，我们的cache可以忽略指令加载相关的cache开销。前没有空格
+L，表示数据load，如果不在Cache中就miss，加载时可能存在eviction；前有空格
+S，表示数据Store写入，如果不在Cache中就miss，加载时可能存在eviction；前有空格
+M，表示数据修改，等同于执行了Load+Store，前有空格
+*/
     for (int i = 0; (c = input[i]) && (c != '\n'); i++) {
       if (c == ' ') { /* 跳过空格 */
         continue;
