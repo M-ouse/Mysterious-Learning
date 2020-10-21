@@ -12,13 +12,13 @@
 <details>
 <summary>2020.10.20 满课&日跑步软件</summary>
 
-+ [v] 花了30min做了一个自动跑步地app应付检查，以增加以后的学习时间
++ [+] 花了30min做了一个自动跑步地app应付检查，以增加以后的学习时间
 </details>
 
 <details>
 <summary>2020.10.19 满课&win32k.sys&漏洞wp</summary>
 
-+ [v] 分析了win32k.sys在内核中加载的规律，学习了windbg一些调试技巧，例如：dd以及!dd的使用场景
++ [+] 分析了win32k.sys在内核中加载的规律，学习了windbg一些调试技巧，例如：dd以及!dd的使用场景
 
 
 + [x] MS16-098 (整数溢出)
