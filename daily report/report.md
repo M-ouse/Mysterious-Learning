@@ -45,3 +45,21 @@
 + [ ] Google CTF 2020 MathSH
   
 </details>
+
+<details>
+<summary>2020.10.24 Windows Internal&GoogleCTF</summary>
+
++ [x] Windows Internal `Chapter5 : Memory Management Introduction to the memory manager->Virtual address space layouts`
++ [ ] 补觉
++ [ ] Google CTF 2020 MathSH
+  
+</details>
+
+<details>
+<summary>2020.10.24 Windows Internal&GoogleCTF</summary>
+
++ [x] Windows Internal `Chapter5 : Stacks Chapter4 : Threads`
++ [ ] 健身
++ [ ] Google CTF 2020 MathSH
+  
+</details>
