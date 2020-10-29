@@ -56,10 +56,50 @@
 </details>
 
 <details>
-<summary>2020.10.24 Windows Internal&GoogleCTF</summary>
+<summary>2020.10.25 Windows Internal&GoogleCTF</summary>
 
 + [x] Windows Internal `Chapter5 : Stacks Chapter4 : Threads`
 + [ ] 健身
 + [ ] Google CTF 2020 MathSH
+  
+</details>
+
+<details>
+<summary>2020.10.26 准备面试 & review 泛型、kernel</summary>
+
++ [x] 听说玄武收windows方向的寒假实习生，准备了下简历，并review了下以前写过的项目
+    + [x] C++ STL：C++ 泛型编程、traits的使用
+    + [x] Linux Kernel：review了下自己做了什么，从加电到保护模式
+  
+</details>
+
+<details>
+<summary>2020.10.27 准备面试 & review C++ OOP、Windows内核、Linux调试器、调过的漏洞</summary>
+
++ [x] 花了半天扫了一遍C++的一些经典OOP问题以及不同版本C++的特性，例如：智能指针、lambda表达式
++ [x] 过了一遍老外的内核面试题目，虽然没什么用也算补了一点之前没有注意的知识点：Trap Frame
++ [x] 复习了内核里进程通信的一些手段：信号、管道、共享内存；同步手段：信号量、锁等；用户态陷入内核；内核对象；内核中比较重要的结构
++ [x] review了下调过的MS16-098的背景、利用
++ [x] 总结了STL里因为浅拷贝引起的Crash
+  
+</details>
+
+<details>
+<summary>2020.10.28 玄武实验室一面</summary>
+
++ [x] 早上总结了下目前以来遇到的漏洞模式，虽然最终都会归到最基本的UAF、Double Free等等，明白程序的原本功能和利用路径还是比较重要的
++ [x] 复习了Windows Internal的笔记
++ [x] 下午一面，面试的过程比较友好，尽可能地把自己的思路和会的只是说了出去，约二面
++ [x] 晚上把面试问到不会的问题搜了一遍
+  
+</details>
+
+<details>
+<summary>2020.10.29 玄武实验室二面</summary>
+
++ [ ] 和大佬聊天了解到了还有因为未初始化引起的漏洞，学习中
++ [x] 下午体测、人快没了
++ [x] 体测后才注意到第二次的面试官发了短信，于是放弃晚饭立刻面试，可能是刚体测完脑子不好使或者是太紧张，思路有些堵住，晚上在床上突然想出思路 。约三面
++ [x] 晚上依旧把面试不会的问题记录并学习
   
 </details>
