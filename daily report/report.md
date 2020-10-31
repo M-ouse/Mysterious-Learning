@@ -117,3 +117,18 @@
 + [x] 晚上依旧把面试不会的问题记录并学习
   
 </details>
+
+<details>
+<summary>2020.10.30 摸鱼</summary>
+
+
+  
+</details>
+
+<details>
+<summary>2020.10.31 Windows SSDT Hook&驱动进程隐藏</summary>
+
++ [x] 写了个驱动实现进程隐藏，基本是unlink，但是在回收进程的时候炸了，直接蓝屏
++ [ ] Windows 10 SSDT Hook 
+  
+</details>
