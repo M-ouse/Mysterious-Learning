@@ -132,3 +132,24 @@
 + [ ] Windows 10 SSDT Hook 
   
 </details>
+
+</details>
+
+<details>
+<summary>2020.11.01 Windows 进程守护 & 内核实验</summary>
+
++ [x] [内核实验](https://www.ired.team/)
+  + [x] Manipulating ActiveProcessLinks to Hide Processes in Userland
+  + [x] Dll injection  
++ [x] [通过过滤请求的方法守护进程](https://bbs.pediy.com/thread-168023.htm)
+  
+</details>
+
+</details>
+
+<details>
+<summary>2020.11.02 Windows RDP协议漏洞</summary>
+
++ [ ] https://bbs.pediy.com/thread-256766.htm 
+  
+</details>
