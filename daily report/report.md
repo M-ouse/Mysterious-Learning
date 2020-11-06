@@ -153,3 +153,27 @@
 + [ ] https://bbs.pediy.com/thread-256766.htm 
   
 </details>
+
+<details>
+<summary>2020.11.03 Windows RDP协议漏洞</summary>
+
++ [x] https://bbs.pediy.com/thread-256766.htm 
+  
+</details>
+
+<details>
+<summary>2020.11.04 满课</summary>
+  
+</details>
+
+<details>
+<summary>2020.11.05 HR面 && 复习文化课</summary>
+  
+</details>
+
+<details>
+<summary>2020.11.06 Windows Internal Process</summary>
+
++ [x] 笔记Creating Process -> Flow of Create Process
+  
+</details>
