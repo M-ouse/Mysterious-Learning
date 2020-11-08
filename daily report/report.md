@@ -177,3 +177,19 @@
 + [x] 笔记Creating Process -> Flow of Create Process
   
 </details>
+
+<details>
+<summary>2020.11.07 面试新队员</summary>
+
++ [x] 摸鱼
+  
+</details>
+
+<details>
+<summary>2020.11.08 CodeQL</summary>
+
++ [x] 学习CodeQL的使用
+  + [x] [基本语法及应用](https://bestwing.me/codeql.html)
+  + [x] 在mac下搭建需要注意的点：下载好binary之后放置到合适目录，并在/bin/path下设置好变量，推荐使用vscode workspace。创建编译型语言的数据库的时候需要指定command，我使用的是make，因此也需要makeile基础 
+  
+</details>
