@@ -193,3 +193,69 @@
   + [x] 在mac下搭建需要注意的点：下载好binary之后放置到合适目录，并在/bin/path下设置好变量，推荐使用vscode workspace。创建编译型语言的数据库的时候需要指定command，我使用的是make，因此也需要makeile基础 
   
 </details>
+
+<details>
+<summary>2020.11.09 - 2020.11.15 复习文化课</summary>
+
++ [x] 复习文化课
+  
+</details>
+
+<details>
+<summary>2020.11.16 CVE-2014-1767 双重释放漏洞POC分析</summary>
+
++ [ ] CVE-2014-1767分析：漏洞由于afd.sys的两个函数在处理socket数据包的过程中，异常处理机制中一个结构体指针在free之后没有被置零，两次异常处理调用到的为同一个函数，对这个指针做出了free操作造成double free。该double free可以转为UAF实现任意写打入shellcode，窃取token实现提权。
+  
+</details>
+
+<details>
+<summary>2020.11.17 CVE-2014-1767 双重释放漏洞exp分析 && 内核SEH机制</summary>
+
++ [ ] 双重释放漏洞exp分析
+  + [x] 参考书籍：《漏洞战争》
+  + [x] 学习了内核中SEH的机制。
+  
+</details>
+
+<details>
+<summary>2020.11.18 WCTF2020 day0 && 360游览</summary>
+
++ [x] wctf2020前一天，做了一下以前的题目，利用windows defender实现侧信道攻击：通过web服务器向windows靶机写入病毒特征码，中间利用flag文件字符构造，从而逐字节爆破出flag。
++ [x] 去比赛现场看了一眼，顺便游览了下vulcan和alpah实验室，出人意料的简朴。和sakura教练以及thunder大哥恰了顿晚饭。
+  
+</details>
+
+<details>
+<summary>2020.11.19 WCTF2020 day1</summary>
+
++ [x] 爆0的一天，一整天都在手撕rust逆向minesweeper，累死。和学长一起逆的，学长很强，逆向出了”秘籍“按键可以让题目打log，但题目远程被限制了info调试信息权限，打不开debug；我想应该需要日rdp的一些服务。
+  
+</details>
+
+<details>
+<summary>2020.11.20 WCTF2020 day2</summary>
+
++ [x] 队伍做出来了3道题，一个1血和一个3血，很强，最后新锐赛rank4。接着说minesweeper那道题，这个题被我们非预期拿到了1血：通过连续按动shift按键唤出本地&远程的粘滞键设置然后调用shell，直接拿到flag抢到全场一血。（学长就比我快5s尝试这个方法，呜呜，不然就可以抢到这个一血了）。除了扫雷其他题是真的看不懂，化身茶歇终结者。比赛结束前2min30s我们队伍又出了一道题，血压飙升，紧张刺激。
+  
+</details>
+
+<details>
+<summary>2020.11.21 WCTF2020 day3</summary>
+
++ [x] 学习了扫雷那道题的官方做法：测信道攻击，因为通过秘籍进入debug模式之后，cursor在block上移动的时候会detect周围雷的数量，利用反应时间不同来辨别出方块下面雷的情况。
+  
+</details>
+
+<details>
+<summary>2020.11.22 -  2020.12.6 考试周</summary>
+
++ [x] 考试周前夕+考试周
+  
+</details>
+
+<details>
+<summary>2020.12.6 总结逆向技巧</summary>
+
++ [x] 看了国外一篇博客关于逆向的30个tricks，感觉上和自己摸索出来的差不多，其中利用RS Hacker的方法定位GUI程序关键函数很棒。（未公开）
+  
+</details>
