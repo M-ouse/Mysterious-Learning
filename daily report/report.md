@@ -254,8 +254,22 @@
 </details>
 
 <details>
-<summary>2020.12.6 总结逆向技巧</summary>
+<summary>2020.12.7 总结逆向技巧</summary>
 
-+ [x] 看了国外一篇博客关于逆向的30个tricks，感觉上和自己摸索出来的差不多，其中利用RS Hacker的方法定位GUI程序关键函数很棒。（未公开）
++ [x] （未公开）看了国外一篇博客关于逆向的30个tricks，感觉上和自己摸索出来的差不多，其中利用RS Hacker的方法定位GUI程序关键函数很棒。
++ [x] 淦实习任务 
+  
+</details>
+
+<details>
+<summary>2020.12.8 Windows Dll hacking</summary>
+
++ [x] (未公开)学习了一种日dll的方法，灵感来自打pwn时做流量转发的马，如果做一个dll proxy夹在程序和真正的dll中，就可以持久化执行我们想部署的命令，甚至可以rootkit
+  - 参考资料：
+    - [C#写的工具](https://github.com/Flangvik/SharpDllProxy)
+    - [dll导出函数的一些问题](https://stackoverflow.com/questions/2804893/c-dll-export-decorated-mangled-names) tips：如果要用C++开发又要“很干净”地导出你的函数，用C的形式导出吧，extern "C"搓个宏
+    - [讲理论的blog 1](https://kevinalmansa.github.io/application%20security/DLL-Proxying/)
+    - [讲理论的blog 2](https://itm4n.github.io/dll-proxying/)
++ [x] 淦实习任务
   
 </details>
