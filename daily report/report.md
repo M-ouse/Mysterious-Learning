@@ -273,3 +273,16 @@
 + [x] 淦实习任务
   
 </details>
+
+<details>
+<summary>2020.12.9 满课</summary>
+  
+</details>
+
+<details>
+<summary>2020.12.10 培训 & x86 win7 defender逆向</summary>
+
++ [x]接了一期钱少的很的培训，，麻了
++ [x]defender不好日，从最原始的开始入手，翻到了[微软的文档](https://docs.microsoft.com/en-us/windows/win32/lwef/windows-defender-functions),在学校上课真耽误学习，，，
+  
+</details>
