@@ -286,3 +286,31 @@
 + [x]defender不好日，从最原始的开始入手，翻到了[微软的文档](https://docs.microsoft.com/en-us/windows/win32/lwef/windows-defender-functions),在学校上课真耽误学习，，，
   
 </details>
+
+<summary>2020.12.11 培训 & 满课</summary>
+
++ [x] 满课跑路
++ [x] 满课
+  
+</details>
+
+<summary>2020.12.12 淦实习任务</summary>
+
++ [x] [调试一个大神把windows defender移植到linux上的项目](https://github.com/taviso/loadlibrary)
++ [x] 看了一些关于api hook的资料 
+  
+</details>
+
+<summary>2020.12.13 Windows Defender ByPass & 阅读 Github上AlphaSecLab上关于windows安全的文章 & 淦实习任务</summary>
+
++ [x] 实习相关已整理到实习repo
++ [x] https://github.com/alphaSeclab/windows-security（未整理完）
+  
+</details>
+
+<summary>2020.12.14 阅读《Windows黑客编程》</summary>
+
++ [x]《windows黑客编程》，看着挺基础的，给淦实习任务打打基础。
+  + [x] 基础技术、注入技术、启动技术
+  
+</details>
