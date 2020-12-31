@@ -42,6 +42,7 @@
   + [生肉](https://sensepost.com/blog/2017/exploiting-ms16-098-rgnobj-integer-overflow-on-windows-8.1-x64-bit-by-abusing-gdi-objects/)
 
    
+
 </details>
 
 <details>
@@ -49,6 +50,7 @@
 
 + [ ] MS16-098 analysis
   
+
 </details>
 
 <details>
@@ -58,6 +60,7 @@
 + [x] 写了个实验课的project，虽然挺水的也算是coding了吧
 + [ ] Google CTF 2020 MathSH
   
+
 </details>
 
 <details>
@@ -67,6 +70,7 @@
 + [ ] 补觉
 + [ ] Google CTF 2020 MathSH
   
+
 </details>
 
 <details>
@@ -76,6 +80,7 @@
 + [ ] 健身
 + [ ] Google CTF 2020 MathSH
   
+
 </details>
 
 <details>
@@ -84,7 +89,7 @@
 + [x] 听说玄武收windows方向的寒假实习生，准备了下简历，并review了下以前写过的项目
     + [x] C++ STL：C++ 泛型编程、traits的使用
     + [x] Linux Kernel：review了下自己做了什么，从加电到保护模式
-  
+
 </details>
 
 <details>
@@ -96,6 +101,7 @@
 + [x] review了下调过的MS16-098的背景、利用
 + [x] 总结了STL里因为浅拷贝引起的Crash
   
+
 </details>
 
 <details>
@@ -106,6 +112,7 @@
 + [x] 下午一面，面试的过程比较友好，尽可能地把自己的思路和会的知识说了出去，约二面
 + [x] 晚上把面试问到不会的问题搜了一遍
   
+
 </details>
 
 <details>
@@ -116,13 +123,14 @@
 + [x] 体测后才注意到第二次的面试官发了短信，于是放弃晚饭立刻面试，可能是刚体测完脑子不好使或者是太紧张，思路有些堵住，晚上在床上突然想出思路 。约三面
 + [x] 晚上依旧把面试不会的问题记录并学习
   
+
 </details>
 
 <details>
 <summary>2020.10.30 摸鱼</summary>
 
 
-  
+
 </details>
 
 <details>
@@ -131,6 +139,7 @@
 + [x] 写了个驱动实现进程隐藏，基本是unlink，但是在回收进程的时候炸了，直接蓝屏
 + [ ] Windows 10 SSDT Hook 
   
+
 </details>
 
 </details>
@@ -143,6 +152,7 @@
   + [x] Dll injection  
 + [x] [通过过滤请求的方法守护进程](https://bbs.pediy.com/thread-168023.htm)
   
+
 </details>
 
 </details>
@@ -152,6 +162,7 @@
 
 + [ ] https://bbs.pediy.com/thread-256766.htm 
   
+
 </details>
 
 <details>
@@ -159,16 +170,17 @@
 
 + [x] https://bbs.pediy.com/thread-256766.htm 
   
+
 </details>
 
 <details>
 <summary>2020.11.04 满课</summary>
-  
+
 </details>
 
 <details>
 <summary>2020.11.05 HR面 && 复习文化课</summary>
-  
+
 </details>
 
 <details>
@@ -176,6 +188,7 @@
 
 + [x] 笔记Creating Process -> Flow of Create Process
   
+
 </details>
 
 <details>
@@ -183,6 +196,7 @@
 
 + [x] 摸鱼
   
+
 </details>
 
 <details>
@@ -192,6 +206,7 @@
   + [x] [基本语法及应用](https://bestwing.me/codeql.html)
   + [x] 在mac下搭建需要注意的点：下载好binary之后放置到合适目录，并在/bin/path下设置好变量，推荐使用vscode workspace。创建编译型语言的数据库的时候需要指定command，我使用的是make，因此也需要makeile基础 
   
+
 </details>
 
 <details>
@@ -199,6 +214,7 @@
 
 + [x] 复习文化课
   
+
 </details>
 
 <details>
@@ -206,6 +222,7 @@
 
 + [ ] CVE-2014-1767分析：漏洞由于afd.sys的两个函数在处理socket数据包的过程中，异常处理机制中一个结构体指针在free之后没有被置零，两次异常处理调用到的为同一个函数，对这个指针做出了free操作造成double free。该double free可以转为UAF实现任意写打入shellcode，窃取token实现提权。
   
+
 </details>
 
 <details>
@@ -215,6 +232,7 @@
   + [x] 参考书籍：《漏洞战争》
   + [x] 学习了内核中SEH的机制。
   
+
 </details>
 
 <details>
@@ -223,6 +241,7 @@
 + [x] wctf2020前一天，做了一下以前的题目，利用windows defender实现侧信道攻击：通过web服务器向windows靶机写入病毒特征码，中间利用flag文件字符构造，从而逐字节爆破出flag。
 + [x] 去比赛现场看了一眼，顺便游览了下vulcan和alpah实验室，出人意料的简朴。和sakura教练以及thunder大哥恰了顿晚饭。
   
+
 </details>
 
 <details>
@@ -230,6 +249,7 @@
 
 + [x] 爆0的一天，一整天都在手撕rust逆向minesweeper，累死。和学长一起逆的，学长很强，逆向出了”秘籍“按键可以让题目打log，但题目远程被限制了info调试信息权限，打不开debug；我想应该需要日rdp的一些服务。
   
+
 </details>
 
 <details>
@@ -237,6 +257,7 @@
 
 + [x] 队伍做出来了3道题，一个1血和一个3血，很强，最后新锐赛rank4。接着说minesweeper那道题，这个题被我们非预期拿到了1血：通过连续按动shift按键唤出本地&远程的粘滞键设置然后调用shell，直接拿到flag抢到全场一血。（学长就比我快5s尝试这个方法，呜呜，不然就可以抢到这个一血了）。除了扫雷其他题是真的看不懂，化身茶歇终结者。比赛结束前2min30s我们队伍又出了一道题，血压飙升，紧张刺激。
   
+
 </details>
 
 <details>
@@ -244,6 +265,7 @@
 
 + [x] 学习了扫雷那道题的官方做法：测信道攻击，因为通过秘籍进入debug模式之后，cursor在block上移动的时候会detect周围雷的数量，利用反应时间不同来辨别出方块下面雷的情况。
   
+
 </details>
 
 <details>
@@ -251,6 +273,7 @@
 
 + [x] 考试周前夕+考试周
   
+
 </details>
 
 <details>
@@ -259,6 +282,7 @@
 + [x] （未公开）看了国外一篇博客关于逆向的30个tricks，感觉上和自己摸索出来的差不多，其中利用RS Hacker的方法定位GUI程序关键函数很棒。
 + [x] 淦实习任务 
   
+
 </details>
 
 <details>
@@ -272,11 +296,12 @@
     - [讲理论的blog 2](https://itm4n.github.io/dll-proxying/)
 + [x] 淦实习任务
   
+
 </details>
 
 <details>
 <summary>2020.12.9 满课</summary>
-  
+
 </details>
 
 <details>
@@ -285,6 +310,7 @@
 + [x]接了一期钱少的很的培训，，麻了
 + [x]defender不好日，从最原始的开始入手，翻到了[微软的文档](https://docs.microsoft.com/en-us/windows/win32/lwef/windows-defender-functions),在学校上课真耽误学习，，，
   
+
 </details>
 
 <details>
@@ -293,6 +319,7 @@
 + [x] 满课跑路
 + [x] 满课
   
+
 </details>
 
 <details>
@@ -301,6 +328,7 @@
 + [x] [调试一个大神把windows defender移植到linux上的项目](https://github.com/taviso/loadlibrary)
 + [x] 看了一些关于api hook的资料 
   
+
 </details>
 
 <details>
@@ -309,6 +337,7 @@
 + [x] 实习相关已整理到实习repo
 + [x] https://github.com/alphaSeclab/windows-security（未整理完）
   
+
 </details>
 
 
@@ -318,6 +347,7 @@
 + [x]《windows黑客编程》，看着挺基础的，给淦实习任务打打基础。
   + [x] 基础技术、注入技术、启动技术
   
+
 </details>
 
 <details>
@@ -333,4 +363,21 @@
 + [x] 学了点Go，搓出来一个爆破网络账号的脚本，不得不说网络编程比C++好写 
 + [x] 课太多了，到此为止吧
   
+
 </details>
+
+
+
+</details>
+
+<details>
+<summary>2021.01.01 合集</summary>
+
+
+主要是复（预）习
+
++ [x] 复习文化课了
++ [x] 在b站看周壑的vmp视频
+
+</details>
+
