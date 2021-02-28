@@ -6,6 +6,9 @@
     2. 满课指的是不得不完成的学校指标，例如8：00上课，22：00下课，课程中间签到、签退；实验课成果现场展示等不能依靠万能的舍友完成的任务。
 
 <details>
+<summary>2020</summary>
+
+<details>
 <summary>2020.7-9 总结</summary>
 
 + [x] 梦的开始，由于在家无聊想草Windows内核，于是学习HEVD系列，加了tj大佬的好友，于是有了下面的故事：
@@ -133,8 +136,6 @@
   
 </details>
 
-</details>
-
 <details>
 <summary>2020.11.01 Windows 进程守护 & 内核实验</summary>
 
@@ -143,8 +144,6 @@
   + [x] Dll injection  
 + [x] [通过过滤请求的方法守护进程](https://bbs.pediy.com/thread-168023.htm)
   
-</details>
-
 </details>
 
 <details>
@@ -287,6 +286,7 @@
   
 </details>
 
+<details>
 <summary>2020.12.11 培训 & 满课</summary>
 
 + [x] 满课跑路
@@ -294,6 +294,7 @@
   
 </details>
 
+<details>
 <summary>2020.12.12 淦实习任务</summary>
 
 + [x] [调试一个大神把windows defender移植到linux上的项目](https://github.com/taviso/loadlibrary)
@@ -301,6 +302,7 @@
   
 </details>
 
+<details>
 <summary>2020.12.13 Windows Defender ByPass & 阅读 Github上AlphaSecLab上关于windows安全的文章 & 淦实习任务</summary>
 
 + [x] 实习相关已整理到实习repo
@@ -308,6 +310,7 @@
   
 </details>
 
+<details>
 <summary>2020.12.14 阅读《Windows黑客编程》</summary>
 
 + [x]《windows黑客编程》，看着挺基础的，给淦实习任务打打基础。
@@ -315,6 +318,7 @@
   
 </details>
 
+<details>
 <summary>2020.12.22 合集</summary>
 
 淦，，，又断更了，，回忆下都做了什么
@@ -326,5 +330,37 @@
 + [x] 深入理解了Windows窗口程序的机制
 + [x] 学了点Go，搓出来一个爆破网络账号的脚本，不得不说网络编程比C++好写 
 + [x] 课太多了，到此为止吧
+  
+</details>
+
+
+</details>
+
+<details>
+<summary>2021.1 - 2021.2 玄武实验室实习</summary>
+
++ [x] 独立在做一个项目，导师留的进度基本上算是完成了，从中发现的问题：
+  + [x] 和导师沟通的方法有待提升，提高效率以及解决问题问题才是应该做的事情，自闭不可取
+  + [x] 遇到棘手的问题想绕过或缺乏解决欲望，也是我一直想学pwn但进度不佳的原因
+  + [x] 缺乏开发经验以及高级C++特性的了解，上手大型工程的速度较慢
+  + [x] 逆向依然有很长的路要走
+  + [x] 写文档的语言也需要学习，简单明了是目前仍然做不到的
+  + [x] 永远不要用当前身的眼界限制自己的潜能，实习不仅是经验过程的积累，组员的评价可以更好地帮助自我认知
++ [x] 在职期间额外写了个1day的poc，分析思路和一段时间过后网上大佬的思路基本相同，并学习了利用技巧
+  
+</details>
+
+<details>
+<summary>2021.2.28 winpwn</summary>
+
++ [x] 搭建起windows pwn环境
++ [ ] [HITB GSEC]BABYSTACK
+  + [x] 原理
+    + [x] 攻击面 
+    + [x] GS保护
+    + [x] SEH底层实现（进入vcruntime） 
+  + [ ] exp
+  + [ ] wp 
++ [x] Windows内存安全缓解机制了解
   
 </details>
