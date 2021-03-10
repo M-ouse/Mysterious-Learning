@@ -422,3 +422,14 @@
 + [ ] Linux虚表攻击
 
 </details>
+
+<details>
+<summary>2021.3.10 MacOS沙箱，XPC，IPC</summary>
+
++ [x] Mach的进程通信手段以及阅读对应示例源码
++ [x] macos沙箱逃逸题源码解读
++ [x] 逃逸题目相关的p0文章阅读（题目来源CVE）：
+  + [ ] https://bugs.chromium.org/p/project-zero/issues/detail?id=959
+  + [ ] https://bugs.chromium.org/p/project-zero/issues/detail?id=1417
+
+</details>
