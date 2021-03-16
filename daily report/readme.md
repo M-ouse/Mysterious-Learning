@@ -467,8 +467,15 @@
 </details>
 
 <details>
-<summary>2021.3.14 准备考试</summary>
+<summary>2021.3.15 准备考试</summary>
 
 + [x] 准备考试。
+
+</details>
+
+<details>
+<summary>2021.3.16 考试</summary>
+
++ [x] 考试。
 
 </details>
