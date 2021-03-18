@@ -487,3 +487,11 @@
 + [x] 分析了国内外多篇mac security文章，对整个行业发展timeline有自己的见解 
 
 </details>
+
+<details>
+<summary>2021.3.18 更新notion上的macOS笔记</summary>
+
++ [x] 更新笔记
++ [x] 其他的什么也没干， 
+
+</details>
