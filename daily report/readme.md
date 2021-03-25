@@ -523,3 +523,11 @@
 + [x] 刷pwn   
 
 </details>
+
+<details>
+<summary>2021.3.24 Pwn & 翻译</summary>
+
++ [x] 刷pwn   
++ [x] 翻译书籍 
+
+</details>
