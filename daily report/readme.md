@@ -525,9 +525,14 @@
 </details>
 
 <details>
-<summary>2021.3.24 Pwn & 翻译</summary>
+<summary>2021.3.25 Pwn & 翻译</summary>
 
 + [x] 刷pwn   
 + [x] 翻译书籍 
+
+</details>
+
+<details>
+<summary>2021.3.26-68 Pwn & fuzz macOS</summary>
 
 </details>
