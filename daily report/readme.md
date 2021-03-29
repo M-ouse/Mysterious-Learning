@@ -533,6 +533,11 @@
 </details>
 
 <details>
-<summary>2021.3.26-68 Pwn & fuzz macOS</summary>
+<summary>2021.3.26-28 Pwn & fuzz macOS</summary>
+
+</details>
+
+<details>
+<summary>2021.3.29 fuzz macOS</summary>
 
 </details>
