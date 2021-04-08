@@ -541,3 +541,15 @@
 <summary>2021.3.29 fuzz macOS</summary>
 
 </details>
+
+<details>
+<summary>2021.3.30 - 4.8 </summary>
+
++ [x] 调整
++ [x] 做了校赛的pwn
++ [x] macOS停滞
++ [x] Windows内核架构加深理解，复习cpp
++ [x] 投了华为的奇点实验室，准备面试
++ [x] 准备培训     
+
+</details>
